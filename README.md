@@ -53,7 +53,7 @@
 | 4 | 朝夕伴 | 朝记暮忆，朝夕相伴 | Orchid, Jason, 朝夕, WATNG | 🎉 | |
 | 5 | 忆语 | 你的人生值得讲述！ | guosoun, TOBO, df, Christina |  | |
 | 6 | ISTORIA | 老年人表达故事，年轻人走进历史 | 无治, 夏佑, AI三剑客, Franklin |  | |
-| 7 | 牵伴AI | 一款能够便捷有效帮助老年人社交的交友平台 | 随机数, Nimo, Barrie, Hero |  | [🔗](https://github.com/xieyouming-Web/Moonshot48-2-qianbanai) |
+| 7 | 牵伴AI | 一款能够便捷有效帮助老年人社交的交友平台 | 随机数, Nimo, Barrie, Hero |  | [🔗](https://github.com/RATING3PRO/Moonshot48-2-qianbanai) |
 | 8 | [GenSync](https://gensync.7086cmd.me/) | 一个使用 AI 算法匹配老年人和学习者的平台，旨在为老年人在传授知识中提供实现自我价值的机会 | 九妹/煎蛋, Enk, 7086cmd, 初柚 Aristra |  | [🔗](https://github.com/ms48-gensync) |
 | 9 | 净界 | 让老年人有更安全的网络环境 | 猫头鹰开赛车, Hu@ngD0w, Mulan, 加勒比海带 | 🥈 | |
 | 10 | 老开门 OLD KEVIN |  | creeper, 无敌暴龙兽, yola, Erix |  | |
